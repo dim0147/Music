@@ -1,0 +1,1 @@
+youtube-dl --download-archive archive.txt -x --audio-format "mp3" -o "%(title)s.%(ext)s" "https://www.youtube.com/playlist?list=PLfHSQCX5CTGx3hpqlHuY7C5PbP6q0EIK3"
